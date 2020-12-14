@@ -2,6 +2,8 @@
 
 Inspired by [Powerline Web Fonts](https://github.com/wernight/powerline-web-fonts), this is a hack for enabling the font that I like (MesloLGS NF, used in [powerlevel-10k](https://github.com/romkatv/powerlevel10k)) in the ChromeOS / Crostini terminal emulator.
 
+![image](https://user-images.githubusercontent.com/6387989/102071507-e58ebd00-3e43-11eb-9e5c-a86c0cbb053c.png)
+
 ## Installation
 
 1. Open the Linux Terminal on ChromeOS
