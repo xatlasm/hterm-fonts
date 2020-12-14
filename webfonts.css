@@ -1,28 +1,28 @@
 @font-face {
   font-family: "Source Code Pro";
   src: local("Source Code Pro for Powerline"), local("Sauce Code Powerline"),
-    url(fonts/MesloLGS\ NF\ Regular.woff2) format("woff2");
+    url(MesloLGS_NF_Regular.woff2) format("woff2");
   font-weight: normal;
   font-style: normal;
 }
 @font-face {
   font-family: "Source Code Pro";
   src: local("Source Code Pro for Powerline"), local("Sauce Code Powerline"),
-    url(fonts/MesloLGS\ NF\ Bold.woff2) format("woff2");
+    url(MesloLGS_NF_Bold.woff2) format("woff2");
   font-weight: bold;
   font-style: normal;
 }
 @font-face {
   font-family: "Source Code Pro";
   src: local("Source Code Pro for Powerline"), local("Sauce Code Powerline"),
-    url(fonts/MesloLGS\ NF\ Italic.woff2) format("woff2");
+    url(MesloLGS_NF_Italic.woff2) format("woff2");
   font-weight: normal;
   font-style: italic;
 }
 @font-face {
   font-family: "Source Code Pro";
   src: local("Source Code Pro for Powerline"), local("Sauce Code Powerline"),
-    url(fonts/MesloLGS\ NF\ Bold\ Italic.woff2) format("woff2");
+    url(MesloLGS_NF_Bold_Italic.woff2) format("woff2");
   font-weight: bold;
   font-style: italic;
 }
